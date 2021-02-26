@@ -4,7 +4,3 @@ window.onload = function myLoadFunction() {
 };
 
 //the listener function here
-let activación = document.querySelector("#theGreen");
-activación.onclick = function() {
-	alert("Wuju!!");
-};
